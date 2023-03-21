@@ -1,0 +1,4 @@
+rootProject.name = 'gradle-hometask'
+include 'db'
+include 'service'
+include 'api'
